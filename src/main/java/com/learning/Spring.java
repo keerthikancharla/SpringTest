@@ -21,6 +21,7 @@ public class Spring {
         System.out.println("division" + calculator.divide(12, 6));
         System.out.println("addition" + calculator.add());
         System.out.println("n-1234".split("n-")[1]);
+        System.out.println("Inside main");
         /*if(appcontxt.containsBean("multiply"))
             System.out.println("contains");
         System.out.println("getType:"+appcontxt.getType("multiply"));*/
